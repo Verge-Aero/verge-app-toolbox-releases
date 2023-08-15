@@ -1,1 +1,1 @@
-# verge-app-toolbox-releases
+# App Toolbox to manage, install, and launch Verge Desktop Applications
